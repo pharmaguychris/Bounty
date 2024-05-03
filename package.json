@@ -1,0 +1,12 @@
+{
+  "name": "bounty",
+  "version": "1.0.0",
+  "description": "Here is the Bounty desktop APP",
+  "main": "index.js",
+  "scripts": {
+      "start": "electron ."
+  },
+  "keywords": [],
+  "author": "Xuncheng",
+  "license": "ISC"
+}
